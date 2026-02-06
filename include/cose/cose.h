@@ -204,6 +204,7 @@ typedef enum {
 	COSE_Key_Type_AKP = 7,
 	COSE_Key_Type = 1,
 	COSE_Key_ID = 2,
+	COSE_Key_Algorithm = 3,
 	COSE_Parameter_KID = 4,
 	COSE_Key_EC2_Curve = -1,
 	COSE_Key_EC2_X = -2,
